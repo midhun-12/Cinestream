@@ -170,22 +170,19 @@ npm start
 ## 🎥 Demo & Documentation
 
 ### 📹 Demo Video
-<!-- Add your demo video link below -->
-**[Click here to watch the demo video](#)**
 
-> Replace `#` with your demo video URL (YouTube, Vimeo, or any video hosting platform)
+**[Click here to watch the demo video](https://drive.google.com/file/d/1eclGAmOo-R6c5PfD6Ni2ZzKh0_wxvyuX/view?usp=drive_link)**
+
+
 
 ### 📖 Code Explanation
-<!-- Add your code explanation/documentation link below -->
-**[Read detailed code explanation](#)**
 
-> Replace `#` with your documentation URL (Blog post, Wiki, or detailed guide)
+**[Read detailed code explanation]([#](https://drive.google.com/file/d/1lwvexPnX_UTZ2yUtNqq077YJjvYO2mm_/view?usp=sharing))**
 
-### Other Resources
-- **[Live Demo](#)** - See the application in action
+
+
+### DOC
 - **[API Documentation](#)** - Comprehensive API reference
-- **[Developer Guide](#)** - Setup and development instructions
-- **[Troubleshooting](#)** - Common issues and solutions
 
 ## 🤝 Contributing
 
@@ -206,6 +203,5 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 
 **Author**: [midhun-12](https://github.com/midhun-12)
 
-**Last Updated**: May 16, 2026
 
 For questions or support, please open an issue on GitHub.
