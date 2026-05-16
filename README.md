@@ -171,13 +171,13 @@ npm start
 
 ### 📹 Demo Video
 
-**[Click here to watch the demo video](https://drive.google.com/file/d/1eclGAmOo-R6c5PfD6Ni2ZzKh0_wxvyuX/view?usp=drive_link)**
+- **[Click here to watch the demo video](https://drive.google.com/file/d/1eclGAmOo-R6c5PfD6Ni2ZzKh0_wxvyuX/view?usp=drive_link)**
 
 
 
 ### 📖 Code Explanation
 
-**[Read detailed code explanation](https://drive.google.com/file/d/1lwvexPnX_UTZ2yUtNqq077YJjvYO2mm_/view?usp=sharing)**
+- **[Detailed code explanation Video](https://drive.google.com/file/d/1lwvexPnX_UTZ2yUtNqq077YJjvYO2mm_/view?usp=sharing)**
 
 
 
