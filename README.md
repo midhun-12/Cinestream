@@ -1,16 +1,51 @@
-# React + Vite
+# 🎬 Cinestream
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack movie streaming application built with modern web technologies. Cinestream provides a seamless experience for users to discover, stream, and manage their favorite movies.
 
-Currently, two official plugins are available:
+## 📋 Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Prerequisites](#prerequisites)
+- [Installation & Setup](#installation--setup)
+- [Running the Application](#running-the-application)
+- [API Documentation](#api-documentation)
+- [Project Statistics](#project-statistics)
+- [Demo & Documentation](#demo--documentation)
+- [Contributing](#contributing)
+- [License](#license)
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **User Authentication**: Secure registration and login with JWT tokens
+- **Movie Catalog**: Browse and search through a collection of movies
+- **Streaming**: Watch movies with a built-in video player
+- **User Profiles**: Manage user information and preferences
+- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
+- **Modern UI**: Clean and intuitive user interface built with React
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend
+- **React** (v19.2.5) - UI library
+- **Vite** (v8.0.9) - Build tool for fast development
+- **React Router** (v7.14.1) - Client-side routing
+- **Axios** (v1.15.1) - HTTP client for API calls
+- **Lucide React** (v1.8.0) - Icon library
+- **CSS** - Styling
+
+### Backend
+- **Node.js** - Runtime environment
+- **Express.js** (v5.2.1) - Web framework
+- **MongoDB** - Database with Mongoose ODM
+- **JWT** (jsonwebtoken v9.0.3) - Authentication
+- **Bcryptjs** (v3.0.3) - Password hashing
+- **CORS** (v2.8.6) - Cross-origin resource sharing
+
+### Language Composition
+- **JavaScript**: 93.9%
+- **CSS**: 5.7%
+- **HTML**: 0.4%
+
+## 📁 Project Structure
