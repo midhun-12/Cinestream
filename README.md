@@ -177,12 +177,12 @@ npm start
 
 ### 📖 Code Explanation
 
-**[Read detailed code explanation]([#](https://drive.google.com/file/d/1lwvexPnX_UTZ2yUtNqq077YJjvYO2mm_/view?usp=sharing))**
+**[Read detailed code explanation](https://drive.google.com/file/d/1lwvexPnX_UTZ2yUtNqq077YJjvYO2mm_/view?usp=sharing)**
 
 
 
 ### DOC
-- **[API Documentation](#)** - Comprehensive API reference
+- **[API Documentation](https://docs.google.com/document/d/1_8cmgsSfO1NfYAMZ47XNrsYBjJMtZ1mx/edit?usp=drive_link&ouid=102808196748869283982&rtpof=true&sd=true)** - Comprehensive API reference
 
 ## 🤝 Contributing
 
